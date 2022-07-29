@@ -1,2 +1,0 @@
-# Goofy
-goofy
